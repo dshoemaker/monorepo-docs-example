@@ -1,0 +1,3 @@
+[submodule "software-docs-submodule"]
+	path = software-docs-submodule
+	url = git@github.com:dshoemaker/software-docs-submodule.git
